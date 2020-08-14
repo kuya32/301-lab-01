@@ -1,17 +1,122 @@
-@media only screen and (max-width: 767px){
-  
-  div {
-    border: solid rgb(175, 175, 175) 1px;
-    background-color: rgb(211, 211, 211);
-  }
+li {
+  outline: solid rgb(0, 0, 0) 1px;
+}
+
+#a {
+  background-color: rgb(211, 211, 211);
+}
+
+#b {
+  background-color: rgb(224, 224, 224);
+}
+
+#c {
+  background-color: rgb(186, 186, 186);
+}
+
+#d {
+  background-color: rgb(148, 148, 148);
+}
+
+#e {
+  background-color: rgb(84, 84, 84);
+}
+
+#f {
+  background-color: rgb(211, 211, 211);
+}
+
+#g {
+  background-color: rgb(211, 211, 211);
+}
+
+#h {
+  background-color: rgb(224, 224, 224);
+}
+
+#i {
+  background-color: rgb(186, 186, 186);
+}
+
+
+
+@media only screen and (min-width: 725px) and (max-width: 1079px) {
+
+#a {
+  background-color: rgb(58, 214, 19);
+}
+
+#b {
+  background-color: rgb(24, 87, 8);
+}
+
+#c {
+  background-color: rgb(41, 150, 14);
+}
+
+#d {
+  background-color: rgb(51, 189, 17);
+}
+
+#e {
+  background-color: rgb(62, 227, 20);
+}
+
+#f {
+  background-color: rgb(58, 214, 19);
+}
+
+#g {
+  background-color: rgb(24, 87, 8);
+}
+
+#h {
+  background-color: rgb(41, 150, 14);
+}
+
+#i {
+  background-color: rgb(51, 189, 17);
+}
 
 }
 
-@media only screen and (min-width: 768px){
+
+
+@media only screen and (min-width: 1080px){
   
-  div {
-    border: solid rgb(175, 175, 175) 1px;
-    background-color: rgb(211, 211, 211);
+  #a {
+    background-color: rgb(123, 25, 214);
   }
   
+  #b {
+    background-color: rgb(50, 10, 87);
+  }
+  
+  #c {
+    background-color: rgb(86, 18, 150);
+  }
+  
+  #d {
+    background-color: rgb(108, 23, 189);
+  }
+  
+  #e {
+    background-color: rgb(130, 27, 227);
+  }
+  
+  #f {
+    background-color: rgb(123, 25, 214);
+  }
+  
+  #g {
+    background-color: rgb(50, 10, 87);
+  }
+  
+  #h {
+    background-color: rgb(86, 18, 150);
+  }
+  
+  #i {
+    background-color: rgb(108, 23, 189);
+  }
 }
